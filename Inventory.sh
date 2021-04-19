@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author
+#Author: Salome
 if [ $? -eq 0 ]
 then
 echo "Success"
