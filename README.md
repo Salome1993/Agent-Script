@@ -1,2 +1,2 @@
 # Agent-Script
-This repository id to store bash shell scripts
+This repository is to store bash shell scripts
